@@ -72,25 +72,13 @@
     "attributes": "*"
   },
   {
-    "role": "user",
-    "resource": "Product",
-    "action": "create:any",
-    "attributes": "*"
-  },
-  {
-    "role": "user",
-    "resource": "Product",
-    "action": "update:any",
-    "attributes": "*"
-  },
-  {
-    "role": "user",
+    "role": "admin",
     "resource": "Product",
     "action": "delete:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "admin",
     "resource": "Product",
     "action": "read:any",
     "attributes": "*"
